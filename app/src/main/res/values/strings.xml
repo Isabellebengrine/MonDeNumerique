@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MonDe</string>
+    <string name="titreapp">Dé numérique</string>
+    <string name="nbDeFaces" />
+    <string name="labelFaces">Faces</string>
+    <string name="btnLancer">Lancer</string>
+    <string name="logoAfpa">logoAfpa</string>
+    <string name="btnRelancer">Relancer</string>
+    <string name="labelPour">Pour un dé à</string>
+</resources>
